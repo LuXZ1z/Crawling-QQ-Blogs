@@ -40,3 +40,5 @@ python get_blog.py
 - 保存图片失败
 
 有一些图片会在docx中保存失败，还恳请您手动添加。
+
+您可以运行`get_url_test.py`文件来爬取一篇日志。
